@@ -1,5 +1,9 @@
 # Sauce Demo Automation Assignment
 
+## Project Structure
+pages/
+tests/
+
 ## Tool Used
 - Playwright
 - JavaScript
